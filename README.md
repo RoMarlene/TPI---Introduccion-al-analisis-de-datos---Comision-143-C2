@@ -22,5 +22,25 @@ El objetivo es explorar los datos para identificar patrones y posibles factores 
 - **Google Colab:** entorno de desarrollo utilizado para ejecutar el código del proyecto y trabajar con notebooks de Python.
 
 ## Estructura del repositorio
+```text
+tpi-analisis-de-datos/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebook/
+│   └── TPI_Analisis_de_Datos.ipynb
+│
+├── docs/
+│   └── INFORME_EJECUTIVO.pdf
+│
+└── README.md
+```
+- **data/raw/**: contiene el dataset original.
+- **data/processed/**: contiene el dataset depurado y transformado.
+- **notebook/**: contiene el notebook de Google Colab donde se desarrolla el análisis.
+- **doc/**: contiene el informe ejecutivo con los resultados e interpretación del proyecto.
+- **README.md**: documento principal de presentación del repositorio.
 
 ## ¿Cómo explorar el proyecto?
