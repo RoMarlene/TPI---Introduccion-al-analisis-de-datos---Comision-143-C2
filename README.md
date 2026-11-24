@@ -1,8 +1,8 @@
 # Trabajo Práctico Integrador - Introducción al Análisis de Datos
 
 # Análisis de Datos - Telco Customer Churn
-## Enlace directo al nootebook en Google Colab
-- https://colab.research.google.com/drive/1G0GIT7lqGoPthpOKOmMPsOrHAMQxbOUQ?usp=sharing
+## Acceso al proyecto
+- [![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RoMarlene/TPI---Introduccion-al-analisis-de-datos---Comision-143-C2/blob/main/notebooks/TPAnalisisdeDatos.ipynb)
 
 ## Descripción del problema de negocio
 Este proyecto consiste en realizar un análisis exploratorio de datos (EDA) sobre el dataset Telco Customer Churn, que contiene información sobre clientes de una empresa de telecomunicaciones.
