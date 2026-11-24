@@ -1,6 +1,9 @@
 # Trabajo Práctico Integrador - Introducción al Análisis de Datos
 
 # Análisis de Datos - Telco Customer Churn
+## Acceso al proyecto
+- [![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RoMarlene/TPI---Introduccion-al-analisis-de-datos---Comision-143-C2/blob/main/notebooks/TPAnalisisdeDatos.ipynb)
+
 ## Descripción del problema de negocio
 Este proyecto consiste en realizar un análisis exploratorio de datos (EDA) sobre el dataset Telco Customer Churn, que contiene información sobre clientes de una empresa de telecomunicaciones.
 
@@ -29,18 +32,17 @@ tpi-analisis-de-datos/
 │   ├── raw/
 │   └── processed/
 │
-├── notebook/
-│   └── TPI_Analisis_de_Datos.ipynb
+├── notebooks/
+│   └── TPAnalisisdeDatos.ipynb
 │
 ├── docs/
 │   └── INFORME_EJECUTIVO.pdf
 │
 └── README.md
 ```
-- **data/raw/**: contiene el dataset original.
-- **data/processed/**: contiene el dataset depurado y transformado.
-- **notebook/**: contiene el notebook de Google Colab donde se desarrolla el análisis.
-- **doc/**: contiene el informe ejecutivo con los resultados e interpretación del proyecto.
-- **README.md**: documento principal de presentación del repositorio.
-
 ## ¿Cómo explorar el proyecto?
+- **data/raw/**: contiene el dataset original, sin modificaciones.
+- **data/processed/**: contiene el dataset depurado y transformado.
+- **notebooks/**: contiene el notebook de Google Colab donde se desarrolló el análisis.
+- **docs/**: contiene el informe ejecutivo en formato PDF con los resultados e interpretaciones del proyecto.
+- **README.md**: documento principal de presentación del repositorio.
